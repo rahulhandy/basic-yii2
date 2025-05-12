@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\\db\\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=yii2_todo_db',
-    'username' => 'root',
-    'password' => '', // your password
+    'dsn' => 'mysql:host=handysolver.crsku4aiu6qo.ap-south-1.rds.amazonaws.com;dbname=myhandydash_db',
+    'username' => 'myhandydash_user',
+    'password' => 'Xuno*7LPR83*OPA9r', // your password
     'charset' => 'utf8',
 ];
 
